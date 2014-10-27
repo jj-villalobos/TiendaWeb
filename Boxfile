@@ -11,4 +11,4 @@ web1: #component type & number
     - mysqli
     - mbstring
     - pdo_mysql #required for versions 2.x+
-	- apc
+    - apc
